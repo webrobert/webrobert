@@ -1,8 +1,14 @@
 ### I started building websites in 1999. Image slices baby! 
-I love making _do-engines_, algorithms that get things done. I'm a serial entrepreneur and [venture builder](https://rainmade.net).
+I design **do-engines** — practical algorithms and systems that quietly get things done.
+Serial entrepreneur. Venture builder at [RainMade](https://rainmade.net).
 
-**Short profile**: [Sailing](https://sailmagazine.com/boats/boat-review-amel-50/). 
+**Short profile**: 
+[Sailing](https://sailmagazine.com/boats/boat-review-amel-50/). 
 Polyglot. 
 Cosmopolitan. 
 [Foodie](https://burgerandbeyond.co.uk/). 
-Dev. Urban-mystic. Kriyavan. Maker. Steward.
+Dev. 
+Urban-mystic. 
+Kriyavan. 
+Maker. 
+Steward.
